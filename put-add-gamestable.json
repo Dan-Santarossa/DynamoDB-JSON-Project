@@ -1,0 +1,123 @@
+{
+    "Some-Favourite-Games": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Hell Let Loose"
+                    },
+                    "Year": {
+                        "N": "2019" 
+                    },                   
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Unreal Tournament"
+                    },
+                    "Year": {
+                        "N": "1999"
+                    },                 
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Metal Gear Solid"
+                    },
+                    "Year": {
+                        "N": "1998"
+                    },
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Diablo 2"
+                    },
+                    "Year": {
+                        "N": "2000"
+                    },                 
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "The Legend Of Zelda: Ocarina of Time"
+                    },
+                    "Year": {
+                        "N": "1998"
+                    },                
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Super Metroid"
+                    },
+                    "Year": {
+                        "N": "1994"
+                    },               
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Command & Conquer: Red Alert "
+                    },
+                    "Year": {
+                        "N": "1996"         
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Dark Souls"
+                    },
+                    "Year": {
+                        "N": "2011"                
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Sekiro: Shadows Die Twice"
+                    },
+                    "Year": {
+                        "N": "2019"
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Game": {
+                        "S": "Bloodborne"
+                    },
+                    "Year": {
+                        "N": "2015"
+                    },               
+                }
+            }
+        }
+    ]
+}
+
+#must format this json...
